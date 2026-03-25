@@ -1,0 +1,1 @@
+/home/derryl/SEKURO_TUGAS_1_Derryl_PROGRAMMING/src/soal_cmake/bin/robot
